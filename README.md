@@ -95,8 +95,9 @@ cv2.destroyAllWindows()
 
 ```
 ## OUTPUT :
+![Workshop 3 M](https://github.com/user-attachments/assets/32c77fb8-5040-49c6-8e1e-8c27955545c3)
 
-![image](https://github.com/user-attachments/assets/05ca7f01-4192-46ce-8ebb-2ecdf5bc2b20)
+
 
 ## RESULT :
 Thius, Successfully Performed real-time object detection using a trained YOLO v4 model through my laptop camera.
