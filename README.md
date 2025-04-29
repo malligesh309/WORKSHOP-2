@@ -14,8 +14,8 @@ To Perform real-time object detection using a trained YOLO v4 model through your
 
 ## PROGRAM :
 ```
-Developed By : HARSHITHA V
-Register No : 212223230074
+Developed By : Malligesh
+Register No : 212223230119
 ```
 ```
 !pip install opencv-python numpy
